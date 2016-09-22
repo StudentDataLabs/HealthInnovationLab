@@ -14,7 +14,6 @@ Data science skills are hugely in demand with employers but difficult to acquire
 ### Data & Resources
 Student Data Labs has compiled learning resources and [open data] that focus on Type 2 Diabetes and health inequalities in Leeds. To access these free resources, simply visit the data and resources folders. Resources include [R code](https://github.com/StudentDataLabs/HealthInnovationLab/tree/master/resources/code), [video demonstrations](https://www.dropbox.com/sh/8m118262d5edmhe/AACbWvNFowkpFOCt7LS8O53Ea?dl=0), and [presentation slides](https://github.com/StudentDataLabs/HealthInnovationLab/tree/master/resources/slides). You can also find more information on the Health Innovation Lab's [Dropbox folder](https://www.dropbox.com/sh/lpn47z908p8lbub/AAC0f3EaGEzeK_NvjU24NEjUa?dl=0).
 
-![](https://studentdatalabs.files.wordpress.com/2016/09/screen-shot-2016-09-22-at-21-27-57.png)
 ![](https://studentdatalabs.files.wordpress.com/2016/09/screen-shot-2016-09-22-at-21-35-52.png)
 
 ### Student Data Labs
