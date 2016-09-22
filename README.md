@@ -1,5 +1,7 @@
 # Health Innovation Lab
 
+![](https://studentdatalabs.files.wordpress.com/2016/09/screen-shot-2016-09-22-at-21-58-19.png)
+
 ### Background
 The Health Innovation Lab, the first Student Data Labs event, aimed to teach practical data skills whilst trying to tackle Type 2 Diabetes. It took place at the pioneering Leeds Institute for Data Analytics in February 2016.
 
@@ -13,8 +15,6 @@ Data science skills are hugely in demand with employers but difficult to acquire
 
 ### Data & Resources
 Student Data Labs has compiled learning resources and [open data] that focus on Type 2 Diabetes and health inequalities in Leeds. To access these free resources, simply visit the data and resources folders. Resources include [R code](https://github.com/StudentDataLabs/HealthInnovationLab/tree/master/resources/code), [video demonstrations](https://www.dropbox.com/sh/8m118262d5edmhe/AACbWvNFowkpFOCt7LS8O53Ea?dl=0), and [presentation slides](https://github.com/StudentDataLabs/HealthInnovationLab/tree/master/resources/slides). You can also find more information on the Health Innovation Lab by checking out the [Lab Notes](https://github.com/StudentDataLabs/HealthInnovationLab/blob/master/resources/projects/Lab%20Notes.pdf) and [Dropbox folder](https://www.dropbox.com/sh/lpn47z908p8lbub/AAC0f3EaGEzeK_NvjU24NEjUa?dl=0).
-
-![](https://studentdatalabs.files.wordpress.com/2016/09/screen-shot-2016-09-22-at-21-35-52.png)
 
 ### Student Data Labs
 Student Data Labs runs data-driven Innovation Labs for university students to learn practical data skills whilst working on civic problems. In the past, we have held Labs that tackle Type 2 Diabetes and health inequalities in Leeds. Student Data Labs works with an interdisciplinary team of students, data scientists, designers, researchers and software developers. We also aim to connect our Data Lab Volunteers with local employers who may be interested in employing them upon graduation. Visit our [website](http://studentdatalabs.com/), [Twitter](https://twitter.com/StudentDataLabs) or [Facebook](https://www.facebook.com/StudentDataLabs) for more info.
