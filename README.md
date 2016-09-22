@@ -1,9 +1,9 @@
 # Health Innovation Lab
 
-![](https://studentdatalabs.files.wordpress.com/2016/09/screen-shot-2016-09-22-at-21-58-19.png)
-
 ### Background
 The Health Innovation Lab, the first Student Data Labs event, aimed to teach practical data skills whilst trying to tackle Type 2 Diabetes. It took place at the pioneering Leeds Institute for Data Analytics in February 2016.
+
+![](https://studentdatalabs.files.wordpress.com/2016/09/screen-shot-2016-09-22-at-21-58-19.png)
 
 The data revolution is undoubtedly making waves in healthcare. Innovations in open data, wearable technology, big data and analytics have the potential to save lives. As students, you can be a part of these changes.
 > "The application of analytics for discovery, decision support, and benefits in healthcare has the potential to radically improve health maintenance, treatments, diagnoses and outcomes in personalised medicine, personal health and population health."
