@@ -1,3 +1,5 @@
+# Data Visulisation and Regression
+
 # Install the necessary packages
 install.packages("ggplot2")
 library(ggplot2)
