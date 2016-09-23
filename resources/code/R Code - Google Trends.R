@@ -1,3 +1,5 @@
+# Google Trends
+
 # Install necessary packages
 install.packages("gtrendsR")
 library(gtrendsR)
