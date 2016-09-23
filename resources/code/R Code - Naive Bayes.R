@@ -1,3 +1,6 @@
+# Naive Bayes
+
+install.packages("e1071")
 library("e1071")
 
 # load data from flat files (both data and labels) - you can find these in data > open-data
