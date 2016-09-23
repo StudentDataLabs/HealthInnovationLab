@@ -1,6 +1,6 @@
 library("e1071")
 
-# load data from flat files (both data and labels)
+# load data from flat files (both data and labels) - you can find these in data > open-data
 pad_data <- read.csv("pima-indians-diabetes.data", header = FALSE)
 names(pad_data) <- c("no_preg","glucose","bloodpress","skinthick","insulin","BMI","dpf","age","hasdiab")
 
